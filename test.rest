@@ -1,0 +1,8 @@
+###
+POST http://localhost:9000/api/user_create
+Content-Type: application/json
+
+{
+    "username" : "evalia",
+    "password" : "1qazxsw2"
+}

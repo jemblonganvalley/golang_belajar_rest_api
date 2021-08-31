@@ -1,0 +1,2 @@
+-- SQLite
+drop TABLE users;
